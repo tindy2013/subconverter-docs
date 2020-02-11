@@ -1,7 +1,6 @@
 # Table of contents
 
 * [SubConverter](README.md)
-* [index](untitled.md)
 
 ## 阅前提示
 

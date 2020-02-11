@@ -4,9 +4,9 @@
 
 ## 阅前提示
 
-* [相关文档](yue-qian-ti-shi/xiang-guan-yue-du.md)
-* [适用范围](yue-qian-ti-shi/shiyongfanwei.md)
 * [目录解释](yue-qian-ti-shi/mu-lu-jie-shi.md)
+* [适用范围](yue-qian-ti-shi/shiyongfanwei.md)
+* [相关文档](yue-qian-ti-shi/xiang-guan-yue-du.md)
 
 ## 简单上手
 
